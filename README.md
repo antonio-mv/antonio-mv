@@ -2,7 +2,7 @@
 <h4>I am a Computer Science beginner</h2>
 <p>I just recently signed up for the edX CS50 course, as I’ve been always interested in this subject but have never dived into it. <br> 
   Also, I am very interested in art and how it interacts with computer science. 
-  I’ve just graduated from high school and am using the time before I enter college to immerse myself in my interests. 👨‍🎓 </p>
+  I’ve just graduated from high school and I am using the time before I enter college to immerse myself in my interests. 👨‍🎓 </p>
   
  <h1></h1>
  
